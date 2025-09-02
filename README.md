@@ -8,7 +8,7 @@ This project is a React.js (Vite) web application that allows users to visualize
 
 ## Features
 
--  [x]  **Various Algorithms**: Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort and Radix Sort
+-  [x]  **Various Algorithms**: Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort
 
 -  [x]  **Visualization**: You can see the sorting process visualized in real-time by 3D rendered bars. If it's going too fast, feel free to change the speed!
 
